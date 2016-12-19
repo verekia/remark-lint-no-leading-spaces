@@ -1,0 +1,17 @@
+{
+  "name": "remark-lint-no-leading-spaces",
+  "version": "1.0.0",
+  "author": "Jonathan Verrecchia - @verekia",
+  "repository": "verekia/remark-lint-no-leading-spaces",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^1.1.1"
+  },
+  "scripts": {
+    "start": "remark ."
+  },
+  "devDependencies": {
+    "remark-cli": "^2.1.0",
+    "remark-lint": "^5.2.0"
+  }
+}
